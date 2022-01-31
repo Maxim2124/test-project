@@ -2,4 +2,4 @@
 *.js
 /csrd-plugin/src/*.ts
 /nest-timetable
-/nest-timetable1
+/nest-timetable12/**/*
